@@ -2,7 +2,7 @@
 
 Reproducible code for **Figure 2** of:
 
-> [Authors], *Stratification-Aware Modelling of Lead–Acid Batteries under
+> Frédéric Coupan, Ahmed Abbas, *Stratification-Aware Modelling of Lead–Acid Batteries under
 > Partial-State-of-Charge Renewable Duty*, Journal of Energy Storage (submitted, 2026).
 
 The script compares the **full porous-electrode** lead–acid model with its
