@@ -1,0 +1,6 @@
+# Pinned to the versions used to produce the published figure.
+# Newer PyBaMM releases should also work but may shift values at the mV level.
+pybamm==26.6.2.0
+numpy==2.4.4
+scipy==1.17.1
+matplotlib==3.10.8
